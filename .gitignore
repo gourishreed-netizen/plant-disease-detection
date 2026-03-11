@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Google Colab
+*.ipynb
+
+# ML projects
+*.h5
+*.pkl
+*.tar.gz
+*.csv
+*.json
